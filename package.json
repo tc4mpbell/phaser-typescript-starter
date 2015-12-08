@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phaser": "2.4.4",
-    "systemjs": "0.19.2"
+    "phaser": "2.4.4"  
   },
   "devDependencies": {
     "live-server": "^0.8.2",
